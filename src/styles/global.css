@@ -1,0 +1,23 @@
+/*
+    Code by : Tiago Ribeiro Santos
+    email : tiago.programador@hotmail.com
+    
+
+*/
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    color:white;
+    background:#ebf2f5;
+}
+
+body,input,button,textarea{
+    font-weight: 600;
+    font-size: 18px;
+    font-family: Nunito,sans-serif;
+}
