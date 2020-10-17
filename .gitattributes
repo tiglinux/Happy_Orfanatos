@@ -1,4 +1,6 @@
 *.tsx linguist-detectable=true
 *.html linguist-detectable=false
 *.css liguist-detectable=false
-*.js linguist-detectable=true
+*.js linguist-detectable=false
+
+*.js linguist-language=Node.JS
