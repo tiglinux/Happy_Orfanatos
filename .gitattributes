@@ -1,2 +1,2 @@
-*.js linguist-language=Node.JS 
-*.tsx linguist-language=TypeScript
+*.css linguist-detectable=false
+*.js linguist-detectable=true
