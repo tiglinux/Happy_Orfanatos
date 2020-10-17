@@ -5,4 +5,4 @@
 
 *.css linguist-vendored
 
-*.js linguist-language=Node.JS
+*.* linguist-language=Node .JS
