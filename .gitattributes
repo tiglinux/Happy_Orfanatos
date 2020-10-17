@@ -1,8 +1,8 @@
-*.tsx linguist-detectable=false
+*.tsx linguist-detectable=true
 *.html linguist-detectable=false
 *.css liguist-detectable=false
 *.js linguist-detectable=false
 
 *.css linguist-vendored
 
-*.* linguist-language=Node .JS
+*.* linguist-language="NodeJS"
