@@ -1,8 +1,2 @@
-*.tsx linguist-detectable=true
-*.html linguist-detectable=false
-*.css liguist-detectable=false
-*.js linguist-detectable=true
-
-*.css linguist-vendored
-
-*.* linguist-language="React"
+* linguist-vendored
+*.tsx linguist-vendored=true
