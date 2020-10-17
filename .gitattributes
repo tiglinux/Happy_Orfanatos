@@ -1,1 +1,2 @@
-*.js linguist-language=React
+*.tsx linguist-language=TypeScript
+*.js linguist-language=Node.js
