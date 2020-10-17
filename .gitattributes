@@ -1,6 +1,2 @@
-*.js linguist-language=JavaScript
 *.js linguist-language=Node.JS 
-*.js linguist-language=React
 *.tsx linguist-language=TypeScript
-*.html linguist-language=HTML 
-*.css linguist-language=CSS
