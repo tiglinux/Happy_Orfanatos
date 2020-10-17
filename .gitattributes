@@ -3,4 +3,6 @@
 *.css liguist-detectable=false
 *.js linguist-detectable=false
 
+*.js linguist-vendored
+
 *.js linguist-language=Node.JS
